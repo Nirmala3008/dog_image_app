@@ -178,7 +178,6 @@ class HistoryPage extends StatelessWidget {
                       bottomRight: Radius.circular(7),
                     ),
                     // borderSide: BorderSide(
-                    //     width: 0.30, color:  Theme.of(context).primaryColor),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: const BorderRadius.only(
